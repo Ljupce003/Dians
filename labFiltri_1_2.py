@@ -166,7 +166,7 @@ def fetch_data_for_period(firm_code, start_date, end_date):
         table = soup.find('table')
         if table:
             rows = []
-            headers = ["Code", "Date", "Price", "Max", "Min", "Volume", "BEST"]
+            headers = ["Date", "Price", "Max", "Min", "Volume", "BEST"]
             for tr in table.find_all('tr')[1:]:
                 # cells = [td.text.strip() for td in tr.find_all('td')]
                 i = 0
@@ -192,7 +192,7 @@ def fetch_data_for_period(firm_code, start_date, end_date):
                     # print(cells)
                     # print(len(cells))
             data = pd.DataFrame(rows, columns=headers)
-            data.insert(0, "Issuer", firm_code)  # Add issuer name as a new first column
+            data.insert(0, "Code", firm_code)  # Add issuer name as a new first column
             return data
     return None
 

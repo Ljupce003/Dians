@@ -1,0 +1,658 @@
+[
+    {
+        "Code": "ADIN",
+        "last_date": "21.10.2024"
+    },
+    {
+        "Code": "ALK",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "ALKB",
+        "last_date": "03.10.2022"
+    },
+    {
+        "Code": "AMEH",
+        "last_date": "25.11.2016"
+    },
+    {
+        "Code": "APTK",
+        "last_date": "20.12.2023"
+    },
+    {
+        "Code": "ATPP",
+        "last_date": "03.11.2023"
+    },
+    {
+        "Code": "AUMK",
+        "last_date": "01.10.2024"
+    },
+    {
+        "Code": "BANA",
+        "last_date": "20.12.2023"
+    },
+    {
+        "Code": "BGOR",
+        "last_date": "24.11.2022"
+    },
+    {
+        "Code": "BIKF",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "BIM",
+        "last_date": "08.11.2021"
+    },
+    {
+        "Code": "BLTU",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "CBNG",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "CDHV",
+        "last_date": "27.10.2017"
+    },
+    {
+        "Code": "CEVI",
+        "last_date": "25.12.2023"
+    },
+    {
+        "Code": "CKB",
+        "last_date": "04.11.2022"
+    },
+    {
+        "Code": "CKBKO",
+        "last_date": "10.12.2021"
+    },
+    {
+        "Code": "DEBA",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "DIMI",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "EDST",
+        "last_date": "28.11.2023"
+    },
+    {
+        "Code": "ELMA",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "ELNC",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "ENER",
+        "last_date": "06.12.2023"
+    },
+    {
+        "Code": "ENSA",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "EUHA",
+        "last_date": "30.11.2018"
+    },
+    {
+        "Code": "EUMK",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "EVRO",
+        "last_date": "27.12.2023"
+    },
+    {
+        "Code": "FAKM",
+        "last_date": "04.10.2017"
+    },
+    {
+        "Code": "FERS",
+        "last_date": "22.11.2023"
+    },
+    {
+        "Code": "FKTL",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "FROT",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "FUBT",
+        "last_date": "06.11.2019"
+    },
+    {
+        "Code": "GALE",
+        "last_date": "05.11.2021"
+    },
+    {
+        "Code": "GDKM",
+        "last_date": "24.11.2023"
+    },
+    {
+        "Code": "GECK",
+        "last_date": "10.10.2024"
+    },
+    {
+        "Code": "GECT",
+        "last_date": "10.10.2024"
+    },
+    {
+        "Code": "GIMS",
+        "last_date": "22.12.2022"
+    },
+    {
+        "Code": "GRDN",
+        "last_date": "03.10.2024"
+    },
+    {
+        "Code": "GRNT",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "GRSN",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "GRZD",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "GTC",
+        "last_date": "25.10.2024"
+    },
+    {
+        "Code": "GTRG",
+        "last_date": "26.12.2023"
+    },
+    {
+        "Code": "IJUG",
+        "last_date": "01.10.2024"
+    },
+    {
+        "Code": "INB",
+        "last_date": "24.10.2024"
+    },
+    {
+        "Code": "INHO",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "INOV",
+        "last_date": "11.11.2022"
+    },
+    {
+        "Code": "INPR",
+        "last_date": "27.12.2019"
+    },
+    {
+        "Code": "INTP",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "JAKO",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "JUSK",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "KARO",
+        "last_date": "26.11.2015"
+    },
+    {
+        "Code": "KDFO",
+        "last_date": "28.12.2017"
+    },
+    {
+        "Code": "KJUBI",
+        "last_date": "06.11.2023"
+    },
+    {
+        "Code": "KKST",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "KLST",
+        "last_date": "26.12.2022"
+    },
+    {
+        "Code": "KMB",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "KMPR",
+        "last_date": "02.10.2018"
+    },
+    {
+        "Code": "KOMU",
+        "last_date": "07.12.2020"
+    },
+    {
+        "Code": "KONF",
+        "last_date": "09.12.2022"
+    },
+    {
+        "Code": "KONZ",
+        "last_date": "28.10.2016"
+    },
+    {
+        "Code": "KORZ",
+        "last_date": "10.12.2015"
+    },
+    {
+        "Code": "KPSS",
+        "last_date": "14.12.2022"
+    },
+    {
+        "Code": "KULT",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "KVAS",
+        "last_date": "13.11.2023"
+    },
+    {
+        "Code": "LAJO",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "LHND",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "LOTO",
+        "last_date": "25.10.2024"
+    },
+    {
+        "Code": "LOZP",
+        "last_date": "13.10.2023"
+    },
+    {
+        "Code": "MAGP",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "MAKP",
+        "last_date": "27.12.2023"
+    },
+    {
+        "Code": "MAKS",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "MB",
+        "last_date": "01.10.2018"
+    },
+    {
+        "Code": "MERM",
+        "last_date": "04.11.2024"
+    },
+    {
+        "Code": "MKSD",
+        "last_date": "09.11.2023"
+    },
+    {
+        "Code": "MLKR",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "MODA",
+        "last_date": "20.10.2020"
+    },
+    {
+        "Code": "MPOL",
+        "last_date": "28.12.2021"
+    },
+    {
+        "Code": "MPT",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "MPTE",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "MTUR",
+        "last_date": "07.11.2024"
+    },
+    {
+        "Code": "MZHE",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "MZPU",
+        "last_date": "03.10.2024"
+    },
+    {
+        "Code": "NEME",
+        "last_date": "01.10.2019"
+    },
+    {
+        "Code": "NOSK",
+        "last_date": "04.10.2024"
+    },
+    {
+        "Code": "OBPP",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "OILK",
+        "last_date": "04.12.2019"
+    },
+    {
+        "Code": "OKTA",
+        "last_date": "24.10.2024"
+    },
+    {
+        "Code": "OMOS",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "OPFO",
+        "last_date": "27.10.2022"
+    },
+    {
+        "Code": "OPTK",
+        "last_date": "13.12.2022"
+    },
+    {
+        "Code": "ORAN",
+        "last_date": "14.10.2024"
+    },
+    {
+        "Code": "OSPO",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "OTEK",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "PELK",
+        "last_date": "27.10.2016"
+    },
+    {
+        "Code": "PGGV",
+        "last_date": "03.10.2016"
+    },
+    {
+        "Code": "PKB",
+        "last_date": "03.10.2023"
+    },
+    {
+        "Code": "POPK",
+        "last_date": "25.10.2024"
+    },
+    {
+        "Code": "PPIV",
+        "last_date": "10.10.2024"
+    },
+    {
+        "Code": "PROD",
+        "last_date": "19.12.2018"
+    },
+    {
+        "Code": "PROT",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "PTRS",
+        "last_date": "02.10.2023"
+    },
+    {
+        "Code": "RADE",
+        "last_date": "28.12.2023"
+    },
+    {
+        "Code": "REPL",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "RIMI",
+        "last_date": "15.10.2020"
+    },
+    {
+        "Code": "RINS",
+        "last_date": "26.12.2014"
+    },
+    {
+        "Code": "RZEK",
+        "last_date": "14.12.2023"
+    },
+    {
+        "Code": "RZIT",
+        "last_date": "17.12.2018"
+    },
+    {
+        "Code": "RZIZ",
+        "last_date": "29.11.2016"
+    },
+    {
+        "Code": "RZLE",
+        "last_date": "30.12.2019"
+    },
+    {
+        "Code": "RZLV",
+        "last_date": "14.10.2024"
+    },
+    {
+        "Code": "RZTK",
+        "last_date": "18.10.2024"
+    },
+    {
+        "Code": "RZUG",
+        "last_date": "23.12.2022"
+    },
+    {
+        "Code": "RZUS",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "SBT",
+        "last_date": "31.10.2024"
+    },
+    {
+        "Code": "SDOM",
+        "last_date": "24.11.2015"
+    },
+    {
+        "Code": "SIL",
+        "last_date": "06.11.2020"
+    },
+    {
+        "Code": "SKON",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "SKP",
+        "last_date": "16.11.2023"
+    },
+    {
+        "Code": "SLAV",
+        "last_date": "17.10.2023"
+    },
+    {
+        "Code": "SNBT",
+        "last_date": "28.12.2018"
+    },
+    {
+        "Code": "SNBTO",
+        "last_date": "12.12.2022"
+    },
+    {
+        "Code": "SOLN",
+        "last_date": "06.12.2019"
+    },
+    {
+        "Code": "SPAZ",
+        "last_date": "07.11.2023"
+    },
+    {
+        "Code": "SPAZP",
+        "last_date": "25.12.2019"
+    },
+    {
+        "Code": "SPOL",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "SSPR",
+        "last_date": "24.12.2019"
+    },
+    {
+        "Code": "STB",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "STBP",
+        "last_date": "01.11.2024"
+    },
+    {
+        "Code": "STIL",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "STOK",
+        "last_date": "25.10.2018"
+    },
+    {
+        "Code": "TAJM",
+        "last_date": "09.11.2017"
+    },
+    {
+        "Code": "TBKO",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "TEAL",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "TEHN",
+        "last_date": "18.11.2021"
+    },
+    {
+        "Code": "TEL",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "TETE",
+        "last_date": "07.11.2024"
+    },
+    {
+        "Code": "TIKV",
+        "last_date": "07.11.2024"
+    },
+    {
+        "Code": "TKPR",
+        "last_date": "27.12.2019"
+    },
+    {
+        "Code": "TKVS",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "TNB",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "TRDB",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "TRPS",
+        "last_date": "01.10.2019"
+    },
+    {
+        "Code": "TRUB",
+        "last_date": "17.11.2016"
+    },
+    {
+        "Code": "TSMP",
+        "last_date": "26.12.2014"
+    },
+    {
+        "Code": "TSZS",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "TTK",
+        "last_date": "08.11.2024"
+    },
+    {
+        "Code": "TTKO",
+        "last_date": "27.12.2021"
+    },
+    {
+        "Code": "UNI",
+        "last_date": "05.11.2024"
+    },
+    {
+        "Code": "USJE",
+        "last_date": "14.10.2024"
+    },
+    {
+        "Code": "VARG",
+        "last_date": "28.12.2021"
+    },
+    {
+        "Code": "VFPM",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "VITA",
+        "last_date": "31.10.2024"
+    },
+    {
+        "Code": "VROS",
+        "last_date": "12.11.2020"
+    },
+    {
+        "Code": "VSC",
+        "last_date": "17.12.2021"
+    },
+    {
+        "Code": "VTKS",
+        "last_date": "29.11.2017"
+    },
+    {
+        "Code": "ZAS",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "ZILU",
+        "last_date": "30.10.2024"
+    },
+    {
+        "Code": "ZILUP",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "ZIMS",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "ZKAR",
+        "last_date": "10.11.2014"
+    },
+    {
+        "Code": "ZPKO",
+        "last_date": "07.11.2024"
+    },
+    {
+        "Code": "ZPOG",
+        "last_date": "30.12.2020"
+    },
+    {
+        "Code": "ZUAS",
+        "last_date": "07.12.2015"
+    }
+]
